@@ -8,7 +8,7 @@
 ### Projects:
 
 - [Cookd.ca](https://cookd.ca/): I am currently working on [cookd.ca](https://cookd.ca/) along with friends. Cookd.ca is a platform that allows you to share what you cook, save recipes, connect with others, and get inspired
-- [hearken](https://github.com/MarcoLoDico/hearken): local transcription that is up to 2.3x faster and uses less RAM than base parakeet-mlx, while maintaining accuracy
+- [hearken](https://github.com/MarcoLoDico/hearken): local transcription that is ~2x faster and uses roughly half the RAM of base parakeet-mlx, while maintaining accuracy
 - [MD-Viewer](https://github.com/MarcoLoDico/md-viewer): Allows you to easily view your md files and render mermaid diagrams
 - MAADOS: RTOS on a STM32 featuring first-fit memory allocation, scheduling, and preemptive multitasking
 - WLP4 Compiler: Built a compiler for a C-like language (WLP4)
